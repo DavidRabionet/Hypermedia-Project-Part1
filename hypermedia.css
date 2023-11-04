@@ -1,0 +1,73 @@
+body {
+	background: #E0ECF7;
+}
+
+header {
+	background: #0D5290;
+	height:150px; 
+}
+
+div.plantilla{
+	margin:0 auto;
+	height:1000px; 
+	width:41%;
+	padding: 45px;
+	background: #D2E4FF;
+	border-style: hidden;
+}
+div.image{
+	padding: 15px;
+}
+div.nom{
+	text-align:center;
+}
+div.principal{
+	text-align:left;
+	border-style: hidden;
+	background: #FFFFFF;
+	
+	padding: 15px;
+	
+	width: 60%;
+	height:800px; 
+}
+div.secundari{
+	text-align:left;
+	
+}
+div.post-title {
+    border-bottom: 1px solid #000000;
+}
+
+section.capçalera{
+	display:flex;
+	justify-content:space-around;
+	
+	color: white;
+	font-size: 15px;
+	font-family:Georgia, Times, serif;
+	font-style:italic;
+}
+section.cos{
+	display:flex;
+	justify-content:space-between;
+	
+}
+
+h1{
+	font-family:Georgia, Times, serif;
+	font-style:italic;
+}
+
+ul.contacte{
+  list-style: circle;
+}
+ul.aptituds{
+  list-style: square inside;;
+}
+ul.idiomes{
+  list-style: circle;
+}
+ul.coneixements{
+  list-style: circle;
+}
